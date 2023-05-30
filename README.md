@@ -8,20 +8,13 @@ Học phần được giảng dạy và hướng dẫn bởi Cô Trần Thị T�
 # THÀNH VIÊN NHÓM
 THÁI NHẬT TRƯỜNG-MSSV: B1908372
 
-Profile **https://nguyenminhkhabt.github.io/truongcmag/**
-
 NGUYỄN THANH SANG-MSSV: B1908352
 
-Profile**https://nguyenminhkhabt.github.io/b1908352/**
-
 NGUYỄN MINH KHA-MSSV: B1908331
-
 Profile **https://nguyenminhkhabt.github.io/B1908331/**
 # Địa chỉ trang web giới thiệu 
 
 Đề tài: Website bán Linh Kiện Máy Tính
-
-**https://nguyenminhkhabt.github.io/CT428-11/**
 # Địa chỉ trang web
 
 STKVN.COM - Linh kiện máy tính chính hãng
