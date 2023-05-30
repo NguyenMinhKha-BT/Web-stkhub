@@ -11,7 +11,7 @@ THÁI NHẬT TRƯỜNG-MSSV: B1908372
 NGUYỄN THANH SANG-MSSV: B1908352
 
 NGUYỄN MINH KHA-MSSV: B1908331
-Profile **https://nguyenminhkhabt.github.io/B1908331/**
+Profile **https://nguyenminhkha-bt.github.io/nguyenminhkha/**
 # Địa chỉ trang web giới thiệu 
 
 Đề tài: Website bán Linh Kiện Máy Tính
